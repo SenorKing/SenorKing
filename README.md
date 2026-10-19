@@ -56,16 +56,15 @@ I'm working on new software engineering and DevOps projects: containerized servi
 
 Outside of coding, I like to stay active or keep learning and practicing investing.
 
-- 🥾 **Staying active:** Hiking and Pickleball
+- 🥾 **Staying active:** Hiking and Pickleball 🏓
 - 📈 **Investing:** Using what I've learned from finance books and YouTube, along with AI tools, I built an **exponential moving average (EMA) crossover indicator** that signals possible times to buy or sell. It's not perfect, but building it is one of my favorite ways to spend free time.
-- 🎌 **Relaxing:** Watching Anime or Reading
+- 🎌 **Relaxing:** Watching Anime or Reading 📚
 
 ---
 
 ### 📫 Let's connect
 
 I'm open to **software engineering and data scientist/analyst roles** in NYC and Long Island, and I'm **willing to relocate**.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/andre-king-156ba2164)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:andrekingo26@gmail.com)
 [![Tableau](https://img.shields.io/badge/Tableau_Public-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/andre.king)
