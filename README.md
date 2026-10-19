@@ -1,6 +1,6 @@
 # Hi, I'm Andre 👋
 
-**Software Engineer · Data Scientist/Analyst** — I build software that solves real problems and dig into data to find what's driving the numbers.
+**Software Engineer · Data Scientist** — I build software that solves real problems and dig into data to find what's driving the numbers.
 
 I have a background in Computer Science and Data Analytics, and I'm especially interested in where **technology meets finance**: building the systems and analytics behind markets and financial decisions.
 
