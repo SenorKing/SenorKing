@@ -1,8 +1,8 @@
 # Hi, I'm Andre 👋
 
-**Software Engineer · Data Analyst** — I build software that solves real problems and dig into data to find what's driving the numbers.
+** Software Engineer · Data Scientist ** — I build software that solves real problems and dig into data to find what's driving the numbers.
 
-I have a background in Computer Science and Data Analytics, and I'm especially interested in where **technology meets finance**: building the systems and analytics behind markets and financial decisions.
+My educational background is Computer Science and Data Analytics, and I'm especially interested in where **technology meets finance**: building the systems and analytics behind markets and financial decisions.
 
 ---
 
@@ -10,7 +10,7 @@ I have a background in Computer Science and Data Analytics, and I'm especially i
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| **[GenAI Finance & Fitness Tracker](https://github.com/SenorKing/REPO)** | Full-stack, AI-powered platform for tracking finances and workouts, with JWT auth, REST APIs and interactive analytics dashboards | React · FastAPI · PostgreSQL · Gemini API |
+| **[GenAI Finance & Fitness Tracker](https://github.com/SenorKing/LevelUp_Ai)** | Full-stack, AI-powered platform for tracking finances and workouts, with JWT auth, REST APIs and interactive analytics dashboards | React · FastAPI · PostgreSQL · Gemini API |
 | **[Inventory Management System](https://github.com/SenorKing/REPO)** | Desktop app built for an auto body shop with real-time tracking, sales forecasting and automated restocking. Improved tracking efficiency by 80% and saved 5 hours of manual work a week | Java · MySQL |
 | **[Retail Inventory & Sales Analytics](https://github.com/SenorKing/REPO)** | Cleans and analyzes thousands of retail transactions; Tableau KPI dashboards for revenue, margins and product performance | Python · Pandas · Excel · Tableau |
 | **[NYC Tree Census Analysis](https://github.com/SenorKing/REPO)** | Analysis of species distribution and tree health across NYC's five boroughs | Python · Pandas · Matplotlib · Seaborn |
