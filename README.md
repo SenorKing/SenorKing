@@ -11,7 +11,7 @@ I have a background in Computer Science and Data Analytics, and I'm especially i
 | Project | What it does | Stack |
 | --- | --- | --- |
 | **[LevelUp AI](https://github.com/SenorKing/LevelUp_Ai)** | Full-stack fitness platform where workouts earn XP and users level up and rank up. Includes JWT authentication, workout dashboards and an AI coach powered by Google's Gemini API. Deployed on Render | Node.js · Express · MongoDB · Gemini API |
-| **[NYC Tree Census Analysis](https://github.com/SenorKing/SQL-Projects)** | Analysis of 680,000+ trees from the 2015 NYC Tree Census, testing whether stewardship, crime rates and sidewalk conditions affect tree health | SQL · r · Excel · Tableau |
+| **[NYC Tree Census Analysis](https://github.com/SenorKing/R-Projects/nyc-trees.r)** | Analysis of 680,000+ trees from the 2015 NYC Tree Census, testing whether stewardship, crime rates and sidewalk conditions affect tree health | SQL · r · Excel · Tableau |
 
 📊 More dashboards on my [Tableau Public profile](https://public.tableau.com/app/profile/andre.king).
 
