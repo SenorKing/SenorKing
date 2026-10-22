@@ -10,9 +10,9 @@ I have a background in Computer Science and Data Analytics, and I'm especially i
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| **[LevelUp AI](https://github.com/SenorKing/LevelUp_Ai)** | Full-stack fitness platform where workouts earn XP and users level up and rank up. Includes JWT authentication, workout dashboards and analytics. | React · Node.js · Express · PostgreSQL |
-| **[Image Morphology](https://github.com/SenorKing/Computer-Vision/morphology.md)** | A C++ image-processing project that applies binary morphological operations to a grayscale or binary image using custom filters. | C++ · OpenCV |
-| **[Palmer Penguins](https://github.com/SenorKing/R-Projects/blob/main/palmerpenguin.md)** | A data visualization project using the Palmer Penguins dataset in R to explore species relationships with ggplot2, summaries, and annotations. | R · ggplot2 · dplyr |
+| **[LevelUp AI](https://github.com/SenorKing/LevelUp_Ai)** | Full-stack fitness platform where workouts earn XP and users level up and rank up. Includes JWT authentication, workout dashboards and real-time user progress tracking. | JavaScript, Node.js, MongoDB |
+| **[Image Morphology](https://github.com/SenorKing/Computer-Vision/morphology.md)** | A C++ image-processing project that applies binary morphological operations to a grayscale or binary image using custom implementations from scratch. | C++, Computer Vision |
+| **[Social Media vs Mental Health](https://github.com/SenorKing/R-Projects/blob/main/social%20media%20usage%20vs%20students'%20mental%20health%20scores.md)** | An R-based research project examining whether higher daily social media use is associated with lower student mental health scores using descriptive analysis, scatterplots, and Pearson correlation. | R |
 
 📊 More dashboards on my [Tableau Public profile](https://public.tableau.com/app/profile/andre.king).
 
