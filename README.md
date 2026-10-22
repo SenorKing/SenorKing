@@ -10,8 +10,9 @@ I have a background in Computer Science and Data Analytics, and I'm especially i
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| **[LevelUp AI](https://github.com/SenorKing/LevelUp_Ai)** | Full-stack fitness platform where workouts earn XP and users level up and rank up. Includes JWT authentication, workout dashboards and an AI coach powered by Google's Gemini API. Deployed on Render | Node.js · Express · MongoDB · Gemini API |
-| **[Image Morphology](https://github.com/SenorKing/Computer-Vision/morphology.md)** | A C++ image-processing project that applies binary morphological operations to a grayscale or binary image using a user-defined structuring element. The program supports dilation, erosion, opening, closing, and a batch mode that runs all four operations.| c++ |
+| **[LevelUp AI](https://github.com/SenorKing/LevelUp_Ai)** | Full-stack fitness platform where workouts earn XP and users level up and rank up. Includes JWT authentication, workout dashboards and analytics. | React · Node.js · Express · PostgreSQL |
+| **[Image Morphology](https://github.com/SenorKing/Computer-Vision/morphology.md)** | A C++ image-processing project that applies binary morphological operations to a grayscale or binary image using custom filters. | C++ · OpenCV |
+| **[Palmer Penguins](https://github.com/SenorKing/R-Projects/blob/main/palmerpenguin.md)** | A data visualization project using the Palmer Penguins dataset in R to explore species relationships with ggplot2, summaries, and annotations. | R · ggplot2 · dplyr |
 
 📊 More dashboards on my [Tableau Public profile](https://public.tableau.com/app/profile/andre.king).
 
@@ -57,7 +58,7 @@ I'm working on new software engineering and DevOps projects: containerized servi
 Outside of coding, I like to stay active or keep learning and practicing investing.
 
 - 🥾 **Staying active:** Hiking and Pickleball 🏓
-- 📈 **Investing:** Using what I've learned from finance books and YouTube, along with AI tools, I built an **exponential moving average (EMA) crossover indicator** that signals possible times to buy or sell. It's not perfect, but building it is one of my favorite ways to spend free time.
+- 📈 **Investing:** Using what I've learned from finance books and YouTube, along with AI tools, I built an **exponential moving average (EMA) crossover indicator** that signals possible times to buy or sell.
 - 🎌 **Relaxing:** Watching Anime or Reading 📚
 
 ---
