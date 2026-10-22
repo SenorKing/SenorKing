@@ -1,4 +1,4 @@
-# Hi, I'm Andre 👋 a Future Engineer
+# Hi, I'm Andre 👋 a future Engineer
 
 **Software Engineer · Data Scientist** — I build software that solves real problems and dig into data to find what's driving the numbers.
 
