@@ -6,41 +6,6 @@ I have a background in Computer Science and Data Analytics, and I'm especially i
 
 ---
 
-### ✨ Interactive profile spotlight
-
-<details>
-  <summary><strong>Explore my coding universe</strong></summary>
-  <br>
-
-  <table>
-    <tr>
-      <td width="33%">
-        <a href="https://github.com/SenorKing/LevelUp_Ai">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SenorKing&repo=LevelUp_Ai&theme=radical" alt="LevelUp AI project" width="100%">
-        </a>
-      </td>
-      <td width="33%">
-        <a href="https://github.com/SenorKing/Computer-Vision">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SenorKing&repo=Computer-Vision&theme=radical" alt="Computer Vision project" width="100%">
-        </a>
-      </td>
-      <td width="33%">
-        <a href="https://github.com/SenorKing/ML-For-Beginners">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SenorKing&repo=ML-For-Beginners&theme=radical" alt="Machine Learning project" width="100%">
-        </a>
-      </td>
-    </tr>
-  </table>
-
-  <div align="center">
-    <a href="https://github.com/SenorKing?tab=repositories">
-      <img src="https://img.shields.io/badge/View%20all%20repos-18%20projects-0A66C2?style=for-the-badge&logo=github" alt="View all repositories">
-    </a>
-  </div>
-</details>
-
----
-
 ### 🚀 Projects
 
 | Project | What it does | Stack |
