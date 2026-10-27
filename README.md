@@ -14,7 +14,7 @@ I have a background in Computer Science and Data Analytics, and I'm especially i
 | **[Image Morphology](https://github.com/SenorKing/Computer-Vision/morphology.md)** | A C++ image-processing project that applies binary morphological operations to a grayscale or binary image using custom implementations from scratch. | C++, Computer Vision |
 | **[Social Media vs Mental Health](https://github.com/SenorKing/R-Projects/blob/main/social%20media%20usage%20vs%20students'%20mental%20health%20scores.md)** | An R-based research project examining whether higher daily social media use is associated with lower student mental health scores using descriptive analysis, scatterplots, and Pearson correlation. | R |
 
-📊 More dashboards on my [Tableau Public profile](https://public.tableau.com/app/profile/andre.king).
+📊 More dashboards on 👉 [Tableau Public profile](https://public.tableau.com/app/profile/andre.king).
 
 ---
 
