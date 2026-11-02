@@ -10,9 +10,10 @@ I have a background in Computer Science and Data Analytics, and I'm especially i
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| **[LevelUp AI](https://github.com/SenorKing/LevelUp_Ai)** | Full-stack fitness platform where workouts earn XP and users level up and rank up. Includes JWT authentication, workout dashboards and real-time progress tracking. | Java, Spring Boot, React, PostgreSQL |
-| **[Image Morphology](https://github.com/SenorKing/Computer-Vision/morphology.md)** | A C++ image-processing project that applies binary morphological operations to a grayscale or binary image using different kernels. | C++, OpenCV |
-| **[Social Media vs Mental Health](https://github.com/SenorKing/R-Projects/blob/main/social%20media%20vs%20mental%20health.md)** | An R-based research project examining whether higher daily social media use is associated with worse mental health outcomes. | R, Statistics, Data Visualization |
+| **[LevelUp AI](https://github.com/SenorKing/LevelUp_Ai)** | Full-stack fitness platform where workouts earn XP and users level up and rank up. Includes JWT authentication, workout dashboards and leaderboard systems. | JavaScript, React, Node.js |
+| **[Ancestor Fan](https://github.com/SenorKing/ancestor-fan)** | Interactive ancestor fan pedigree explorer. | HTML |
+| **[Image Morphology](https://github.com/SenorKing/Computer-Vision/morphology.md)** | A C++ image-processing project that applies binary morphological operations to a grayscale or binary image using convolution-style kernels. | C++ |
+| **[Social Media vs Mental Health](https://github.com/SenorKing/R-Projects/blob/main/social%20media%20vs%20mental%20health.md)** | An R-based research project examining whether higher daily social media usage is associated with worse mental health outcomes. | R |
 
 📊 More dashboards on 👉 [Tableau Public profile](https://public.tableau.com/app/profile/andre.king) 👈
 
@@ -58,7 +59,7 @@ I'm working on new software engineering and DevOps projects: containerized servi
 Outside of coding, I like to stay active or keep learning and practicing investing.
 
 - 🥾 **Staying active:** Hiking and Pickleball 🏓
-- 📈 **Investing:** Using what I've learned from finance books and YouTube, along with AI tools, I built an **exponential moving average (EMA) crossover indicator** that signals possible times to buy or sell.
+- 📈 **Investing:** Using what I've learned from finance books and YouTube, along with AI tools, I built an **exponential moving average (EMA) crossover indicator** that signals possible times to add or reduce positions.
 - 🎌 **Relaxing:** Watching Anime or Reading 📚
 
 ---
