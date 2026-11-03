@@ -11,7 +11,7 @@ I have a background in Computer Science and Data Analytics, and I'm especially i
 | Project | What it does | Stack |
 | --- | --- | --- |
 | **[LevelUp AI](https://github.com/SenorKing/LevelUp_Ai)** | Full-stack fitness platform where workouts earn XP and users level up and rank up. Includes JWT authentication, workout dashboards and leaderboard systems. | JavaScript, React, Node.js |
-| **[Ancestor Fan](https://github.com/SenorKing/ancestor-fan)** | Interactive ancestor fan pedigree explorer. | HTML |
+| **[Ancestor Fan](https://github.com/SenorKing/ancestor-fan)** | Interactive ancestor fan pedigree explorer that counts your ancestors. | HTML |
 | **[Image Morphology](https://github.com/SenorKing/Computer-Vision/blob/main/morphology.md)** | A C++ image-processing project that applies binary morphological operations to a grayscale or binary image using convolution-style kernels. | C++ |
 | **[Social Media vs Mental Health](https://github.com/SenorKing/R-Projects/blob/main/social%20media%20vs%20mental%20health.md)** | An R-based research project examining whether higher daily social media usage is associated with worse mental health outcomes. | R |
 
