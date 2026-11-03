@@ -19,7 +19,7 @@ I have a background in Computer Science and Data Analytics, and I'm especially i
 
 ---
 
-### 🔨 Currently building
+### 🔨 Currently building 🔨
 
 I'm working on new software engineering and DevOps projects: containerized services, CI/CD pipelines and finance-focused apps. Check back soon.
 
