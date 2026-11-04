@@ -10,10 +10,10 @@ I have a background in Computer Science and Data Analytics, and I'm especially i
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| **[LevelUp AI](https://github.com/SenorKing/LevelUp_Ai)** | Full-stack fitness platform where workouts earn XP and users level up and rank up. Includes JWT authentication, workout dashboards and leaderboard features. | **React, Node.js, Express, PostgreSQL, JWT** |
-| **[Appointments_NoShow](https://github.com/SenorKing/Appointments_NoShow)** | Data-driven project focused on predicting appointment no-shows using analytics and ML techniques to improve scheduling efficiency. | **Python, SQL, Pandas, Scikit-learn** |
-| **[Ancestor Fan](https://github.com/SenorKing/ancestor-fan)** | Interactive ancestor fan pedigree explorer that counts your ancestors as you have as you go back in time, and why shows why the real numbers are more dramatic than people expect. | **JavaScript, React, CSS** |
-| **[Image Morphology](https://github.com/SenorKing/Computer-Vision/blob/main/morphology.md)** | A C++ image-processing project that applies binary morphological operations to a grayscale or binary image, including dilation, erosion, opening, closing, and hit-or-miss transforms. | **C++** |
+| **[LevelUp AI](https://github.com/SenorKing/LevelUp_Ai)**<br><sub>Industry: Fitness & wellness</sub> | Full-stack fitness platform where workouts earn XP and users level up and rank up. Includes JWT authentication, workout dashboards and leaderboard features. | **React, Node.js, Express, PostgreSQL, JWT** |
+| **[Appointments_NoShow](https://github.com/SenorKing/Appointments_NoShow)**<br><sub>Industry: Healthcare</sub> | Data-driven project focused on predicting appointment no-shows using analytics and ML techniques to improve scheduling efficiency. | **Python, SQL, Pandas, Scikit-learn** |
+| **[Ancestor Fan](https://github.com/SenorKing/ancestor-fan)**<br><sub>Industry: Genealogy & family history</sub> | Interactive ancestor fan pedigree explorer that counts your ancestors as you have as you go back in time, and why shows why the real numbers are more dramatic than people expect. | **JavaScript, React, CSS** |
+| **[Image Morphology](https://github.com/SenorKing/Computer-Vision/blob/main/morphology.md)**<br><sub>Industry: Computer vision & image processing</sub> | A C++ image-processing project that applies binary morphological operations to a grayscale or binary image, including dilation, erosion, opening, closing, and hit-or-miss transforms. | **C++** |
 
 📊 More dashboards on 👉 [Tableau Public profile](https://public.tableau.com/app/profile/andre.king) 👈
 
