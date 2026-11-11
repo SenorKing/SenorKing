@@ -6,7 +6,7 @@ I have a background in Computer Science and Data Analytics, and I'm especially i
 
 ---
 
-### 🚀 Projects
+### 🚀 Projects 🚀
 
 | Project | What it does | Stack |
 | --- | --- | --- |
@@ -25,7 +25,7 @@ I'm working on new software engineering and DevOps projects: containerized servi
 
 ---
 
-### 🛠️ Tech stack
+### 🛠️ Tech stack 🛠️
 
 **Languages**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
