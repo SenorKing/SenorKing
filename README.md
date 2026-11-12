@@ -66,7 +66,7 @@ Outside of coding, I like to stay active or keep learning and practicing investi
 
 ### 📫 Let's connect
 
-I'm open to **Software Engineering and Data Scientist roles** in NYC and Long Island, and I'm **willing to relocate**.
+I'm open to **Software Engineering and Data Scientist roles** in NYC and Long Island.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/andre-king-156ba2164)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:andrekingo26@gmail.com)
 
